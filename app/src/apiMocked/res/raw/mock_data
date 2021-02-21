@@ -1,0 +1,271 @@
+{
+  "href": "https://api.spotify.com/v1/albums/1FyNZvJ6MHO01kl3ySMPdc/tracks?offset=0&limit=15&market=PL",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD",
+          "id": "7jy3rLJdDQY21OgRLCZ9sD",
+          "name": "Foo Fighters",
+          "type": "artist",
+          "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 255106,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2u8NmvhYX6wiviyxJTOhEi"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2u8NmvhYX6wiviyxJTOhEi",
+      "id": "2u8NmvhYX6wiviyxJTOhEi",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Making A Fire",
+      "preview_url": "https://p.scdn.co/mp3-preview/01f5f961108e2d60d9c399ab3a5df2fcf6b52370?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2u8NmvhYX6wiviyxJTOhEi"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD",
+          "id": "7jy3rLJdDQY21OgRLCZ9sD",
+          "name": "Foo Fighters",
+          "type": "artist",
+          "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 257426,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/21Qmkbvp6GvZdO0IMQtae5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/21Qmkbvp6GvZdO0IMQtae5",
+      "id": "21Qmkbvp6GvZdO0IMQtae5",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Shame Shame",
+      "preview_url": "https://p.scdn.co/mp3-preview/e3b4cc63794f6e5495774f093f4d18c462b95471?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:21Qmkbvp6GvZdO0IMQtae5"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD",
+          "id": "7jy3rLJdDQY21OgRLCZ9sD",
+          "name": "Foo Fighters",
+          "type": "artist",
+          "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 233213,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4evJYiyxBkHcYvljAXNWZo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4evJYiyxBkHcYvljAXNWZo",
+      "id": "4evJYiyxBkHcYvljAXNWZo",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Cloudspotter",
+      "preview_url": "https://p.scdn.co/mp3-preview/11dcaab8d40dc3668cc60b13c3d2ea8973e43fb9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4evJYiyxBkHcYvljAXNWZo"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD",
+          "id": "7jy3rLJdDQY21OgRLCZ9sD",
+          "name": "Foo Fighters",
+          "type": "artist",
+          "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 253840,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4tA8lpQoWkMRWOZ29HbR86"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4tA8lpQoWkMRWOZ29HbR86",
+      "id": "4tA8lpQoWkMRWOZ29HbR86",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Waiting On A War",
+      "preview_url": "https://p.scdn.co/mp3-preview/e832a647295260f9f5734a95b3771f2c2a38c8c3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:4tA8lpQoWkMRWOZ29HbR86"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD",
+          "id": "7jy3rLJdDQY21OgRLCZ9sD",
+          "name": "Foo Fighters",
+          "type": "artist",
+          "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 209720,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4r843ZUQ2w8SRYYJHUFoNW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4r843ZUQ2w8SRYYJHUFoNW",
+      "id": "4r843ZUQ2w8SRYYJHUFoNW",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Medicine At Midnight",
+      "preview_url": "https://p.scdn.co/mp3-preview/69848a612a5b704c6ade5e733ad8ec03774d018c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:4r843ZUQ2w8SRYYJHUFoNW"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD",
+          "id": "7jy3rLJdDQY21OgRLCZ9sD",
+          "name": "Foo Fighters",
+          "type": "artist",
+          "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208706,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3jSRg3DPkvNX74Kx28PQnH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3jSRg3DPkvNX74Kx28PQnH",
+      "id": "3jSRg3DPkvNX74Kx28PQnH",
+      "is_local": false,
+      "is_playable": true,
+      "name": "No Son Of Mine",
+      "preview_url": "https://p.scdn.co/mp3-preview/55b6fab3561d24523f4936984e22082419867d85?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:3jSRg3DPkvNX74Kx28PQnH"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD",
+          "id": "7jy3rLJdDQY21OgRLCZ9sD",
+          "name": "Foo Fighters",
+          "type": "artist",
+          "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 264066,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5aEvbJQVI98ea9lxUsgdb8"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5aEvbJQVI98ea9lxUsgdb8",
+      "id": "5aEvbJQVI98ea9lxUsgdb8",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Holding Poison",
+      "preview_url": "https://p.scdn.co/mp3-preview/56fedd20f9a463a1159410f920107584bf006c0f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:5aEvbJQVI98ea9lxUsgdb8"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD",
+          "id": "7jy3rLJdDQY21OgRLCZ9sD",
+          "name": "Foo Fighters",
+          "type": "artist",
+          "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 252293,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2jKnUcyrCADkeSy6gcN1qa"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2jKnUcyrCADkeSy6gcN1qa",
+      "id": "2jKnUcyrCADkeSy6gcN1qa",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Chasing Birds",
+      "preview_url": "https://p.scdn.co/mp3-preview/41b8012a3ee3d7bdfdd22021f875b431b4422941?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:2jKnUcyrCADkeSy6gcN1qa"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          },
+          "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD",
+          "id": "7jy3rLJdDQY21OgRLCZ9sD",
+          "name": "Foo Fighters",
+          "type": "artist",
+          "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 261545,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5suO1J3cXSVWJ7ED3kasKQ",
+      "id": "5suO1J3cXSVWJ7ED3kasKQ",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Love Dies Young",
+      "preview_url": "https://p.scdn.co/mp3-preview/bb6b46b56b191b8adba0485c1d5e94dda22627ba?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:5suO1J3cXSVWJ7ED3kasKQ"
+    }
+  ],
+  "limit": 15,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 9
+}
